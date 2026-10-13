@@ -1,0 +1,114 @@
+{
+  "candidates": [
+    {
+      "id": "paslon-1",
+      "number": 1,
+      "chairmanName": "Muhammad Fathir Al-Ghifari",
+      "viceChairmanName": "Amanda Zahra Putri",
+      "chairmanClass": "XI MIPA 1",
+      "viceChairmanClass": "XI IPS 2",
+      "slogan": "OSIS Progresif: Berakhlak, Berprestasi, dan Berdaya Saing Global",
+      "vision": "Mewujudkan OSIS sebagai wadah aspirasi siswa yang inklusif, kolaboratif, dan inovatif berlandaskan integritas dan kepedulian lingkungan.",
+      "missions": [
+        "Meningkatkan partisipasi aktif seluruh siswa dalam kegiatan ekstrakurikuler dan akademik.",
+        "Mengembangkan platform digital aspirasi siswa yang transparan dan responsif.",
+        "Menyelenggarakan festival seni, literasi teknologi, dan kompetisi sains antar-kelas.",
+        "Mempererat solidaritas antar angkatan melalui program mentoring sebaya yang berkelanjutan."
+      ],
+      "workPrograms": [
+        "School Innovation Hub & Podcast Pelajar Inspiratif",
+        "Green School Eco-Action & Duta Lingkungan Berkelanjutan",
+        "Pekan Olahraga & Seni Terpadu (PORSENI Kreatif)"
+      ],
+      "color": "#059669"
+    },
+    {
+      "id": "paslon-2",
+      "number": 2,
+      "chairmanName": "Raditya Arya Pratama",
+      "viceChairmanName": "Nadhira Keisha Salsabila",
+      "chairmanClass": "XI MIPA 3",
+      "viceChairmanClass": "XI MIPA 2",
+      "slogan": "Satu Tekad, Satu Langkah: OSIS Harmonis & Berkarakter Unggul",
+      "vision": "Membangun ekosistem sekolah yang hangat, adaptif terhadap kemajuan zaman, dan melahirkan kader pemimpin berjiwa kepemimpinan tinggi.",
+      "missions": [
+        "Menjembatani aspirasi siswa dan pihak sekolah secara santun, cepat, dan solutif.",
+        "Mengoptimalkan publikasi media sosial OSIS untuk transparansi setiap kegiatan dan anggaran.",
+        "Mengadakan pelatihan kepemimpinan pemuda (Youth Leadership Camp) dan kewirausahaan siswa.",
+        "Memperkuat kegiatan kerohanian dan toleransi antar sesama warga sekolah."
+      ],
+      "workPrograms": [
+        "Voice of Students: Kanal Aspirasi & Survei Siswa Bulanan",
+        "Workshop Digital Skills & Pelatihan Literasi Masa Depan",
+        "Bakti Sosial & Gerakan Kasih Peduli Sesama"
+      ],
+      "color": "#D97706"
+    },
+    {
+      "id": "paslon-3",
+      "number": 3,
+      "chairmanName": "Farhan Dwi Kurniawan",
+      "viceChairmanName": "Clarissa Aurelia Stephanie",
+      "chairmanClass": "XI IPS 1",
+      "viceChairmanClass": "XI MIPA 4",
+      "slogan": "Kreasi Tanpa Batas: OSIS Aktif, Tanggap, dan Kolaboratif",
+      "vision": "Menjadikan OSIS pusat kolaborasi karya kreatif, wadah talenta non-akademik, serta pelindung kesejahteraan mental dan potensi siswa.",
+      "missions": [
+        "Mendukung penuh pengembangan bakat minat siswa di bidang olahraga, esport, musik, dan desain grafis.",
+        "Menyediakan forum konseling sebaya dan ruang berbagi kesehatan mental siswa bekerjasama dengan BK.",
+        "Menggencarkan pameran karya kreatif dan eksposisi ekstrakurikuler di tiap akhir semester.",
+        "Membangun sinergi dan studi banding positif dengan OSIS sekolah lain se-wilayah."
+      ],
+      "workPrograms": [
+        "Student Wellness & Peer Support Circle",
+        "Creative Arts & Youth Esports Championship",
+        "OSIS Youth Expo & Kolaborasi Lintas Komunitas"
+      ],
+      "color": "#6366F1"
+    }
+  ],
+  "votes": [
+    {
+      "id": "vote-1791912417442-n1ur",
+      "candidateId": "paslon-1",
+      "candidateNumber": 1,
+      "voterName": "Naufal Zikri Hakim",
+      "voterPhone": "081298765431",
+      "timestamp": 1791912417442,
+      "ipAddress": "127.0.0.1",
+      "deviceFingerprint": "seed-dev-1",
+      "receiptCode": "EVT-OSIS-X5GPMR"
+    },
+    {
+      "id": "vote-1791912417459-hq07",
+      "candidateId": "paslon-2",
+      "candidateNumber": 2,
+      "voterName": "Siti Nurhaliza",
+      "voterPhone": "085712345678",
+      "timestamp": 1791912417459,
+      "ipAddress": "127.0.0.1",
+      "deviceFingerprint": "seed-dev-2",
+      "receiptCode": "EVT-OSIS-RHJHJR"
+    },
+    {
+      "id": "vote-1791912417478-wyr9",
+      "candidateId": "paslon-1",
+      "candidateNumber": 1,
+      "voterName": "Dimas Arya Wicaksana",
+      "voterPhone": "087899887766",
+      "timestamp": 1791912417478,
+      "ipAddress": "127.0.0.1",
+      "deviceFingerprint": "seed-dev-3",
+      "receiptCode": "EVT-OSIS-PISFML"
+    }
+  ],
+  "settings": {
+    "title": "Pemilihan Ketua & Wakil Ketua OSIS Periode 2026/2027",
+    "schoolName": "SMA / SMK NEGERI TELADAN",
+    "academicYear": "2026/2027",
+    "isVotingOpen": true,
+    "totalEligibleVoters": 750,
+    "adminPin": "2026",
+    "ipLockoutHours": 24
+  }
+}

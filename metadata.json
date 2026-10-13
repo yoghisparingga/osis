@@ -1,0 +1,6 @@
+{
+  "name": "E-Voting OSIS Real-Time",
+  "description": "Sistem pemungutan suara pemilihan Ketua OSIS daring dengan proteksi anti-dobel 24 jam, update realtime, dan pemantauan mobile admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
